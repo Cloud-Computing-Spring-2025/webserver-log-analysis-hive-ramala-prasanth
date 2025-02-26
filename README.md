@@ -178,5 +178,5 @@ docker cp namenode:/opt/output output/output
 This project demonstrates efficient log processing using Hadoop and Hive. It enables scalable querying and analysis of web logs, helping derive insights such as error trends, frequent visitors, and peak request times. By partitioning data and leveraging Hive’s querying capabilities, we optimize performance and improve data retrieval efficiency.
 
 ---
-This `README.md` serves as documentation for the project and ensures that the repository is self-explanatory.
+
 
